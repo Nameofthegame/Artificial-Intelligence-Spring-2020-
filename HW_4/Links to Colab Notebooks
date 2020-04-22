@@ -7,4 +7,10 @@ I split my code up into three notebooks:
   (This contains my code for Problem 3.1 - Where I train the Xception model)
 
 3. https://colab.research.google.com/drive/1R03vg7M-gkxKVkMQAYk24kLpf-rUN5fi
-  (This contains my code for Problem 3.2 - Where I attempt better accuracy)
+  (This contains my code for Problem 3.2 - Where I attempt better accuracy using Xception)
+  
+4. https://colab.research.google.com/drive/15qYIhB8I00d-rUZOdGVkblaQzO2Mgz7s
+  (This contains my code for Problem 3.3 - Where I train the InceptionV3 model)
+
+5. https://colab.research.google.com/drive/1aDx3bkE89_P32TxzRP4ZFU0U4yCUgWY9
+  (This contains my code for Problem 3.4 - Where I attempt better accuracy using InceptionV3)
